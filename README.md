@@ -4,17 +4,11 @@ Este é um aplicativo web que utiliza FastAPI no backend, React no frontend e Mo
 Estrutura do Projeto
 
 
-    Execute o comando para construir e iniciar os containers:
-
-bash
-
-docker-compose up --build
+Execute o comando para construir e iniciar os containers:
 
 
-    Acesse o aplicativo:
+    docker-compose up --build
 
-    O backend estará disponível em: http://localhost:8000
-    O frontend estará disponível em: http://localhost:3000
 
 Estrutura dos Diretórios
 
